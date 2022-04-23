@@ -1,6 +1,13 @@
 
 This is my first time working with Svelte. Followed this tutorial https://www.youtube.com/watch?v=J5x3OMXjgMc
 
+Future changes: CSS and styling, however the main focus of this was to explore: 
+
+- How to develop decentralized apps
+- WebRTC 
+- End-to-End e2e encryption for chat
+- Using Svelte to build a chat UI
+
 *Psst — looking for a more complete solution? Check out [SvelteKit](https://kit.svelte.dev), the official framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing.*
 
 *Looking for a shareable component template instead? You can [use SvelteKit for that as well](https://kit.svelte.dev/docs#packaging) or the older [sveltejs/component-template](https://github.com/sveltejs/component-template)*
